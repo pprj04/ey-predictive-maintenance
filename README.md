@@ -123,5 +123,5 @@ This project was developed for EY Techathon 6.0 – Automotive Predictive Mainte
 
 ## 👥 Team
 
-Team Name: Spacemates
+Team Name: Tech-Mates
 Project: AI-Powered Predictive Maintenance & Agentic Scheduling System
