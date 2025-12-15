@@ -84,16 +84,16 @@ ey_prototype/
 ## ▶️ How to Run the Prototype
 
 ### 1️⃣ Install dependencies
-```bash
+
 pip install -r requirements.txt
 
-2️⃣ Run the Streamlit application
+###2️⃣ Run the Streamlit application
 python -m streamlit run app.py
 
-3️⃣ Open in browser
+###3️⃣ Open in browser
 http://localhost:8501
 
-📊 Sample Output
+###📊 Sample Output
 
 Failure probability (%) for selected vehicle
 
@@ -101,11 +101,11 @@ Fleet-level RCA bar charts
 
 UEBA logs highlighting anomalous actions
 
-🔐 Security & Governance
+###🔐 Security & Governance
 
 The solution integrates a UEBA layer to monitor agent behavior, detect anomalies such as unauthorized access, and ensure responsible autonomous execution.
 
-🚀 Future Enhancements
+###🚀 Future Enhancements
 
 Integration with real-time IoT telematics streams
 
@@ -117,11 +117,11 @@ Cloud deployment with scalable pipelines
 
 Integration with OEM ERP and service systems
 
-🏆 EY Techathon Context
+###🏆 EY Techathon Context
 
 This project was developed for EY Techathon 6.0 – Automotive Predictive Maintenance Challenge, showcasing innovation in Agentic AI, predictive analytics, and secure autonomous systems.
 
-👥 Team
+###👥 Team
 
 Team Name: Spacemates
 Project: AI-Powered Predictive Maintenance & Agentic Scheduling System
